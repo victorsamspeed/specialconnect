@@ -24,8 +24,8 @@ Pod::Spec.new do |spec|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  spec.description  = "测试使用"
-  spec.homepage     = "https://github.com/victorsamspeed/SpecialConnenct"
+  spec.description  = "test special connect use cocopods"
+  spec.homepage     = "https://github.com/victorsamspeed/specialconnect"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -77,7 +77,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "http://github.com/victorsamspeed/SpecialConnenct.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/victorsamspeed/specialconnect.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
